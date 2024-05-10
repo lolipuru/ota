@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-2.2-RELEASE-20240510-GAPPS-COMMUNITY-fuxi.zip",
+			"download": "",
+			"timestamp": 1715321862,
+			"md5": "fc94c39cab28a19e6515e50ffc08870f",
+			"sha256": "6e18bb85710ba6359cbffedf4898e66a692f36f0567830365cd3c07e60eeb54c",
+			"size": 3337118090,
+			"version": "GAPPS.GAPPS",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
